@@ -1,0 +1,201 @@
+\begin{thebibliography}{}
+
+\bibitem[Capuano et~al., 2018]{capuano}
+Capuano, E., Oliviero, T., Fogliano, V., and Pellegrini, N. (2018).
+\newblock Role of the food matrix and digestion on calculation of the actual
+  energy content of food.
+\newblock {\em Nutrition Reviews}, 76(4):274--289.
+
+\bibitem[Chung et~al., 2020]{chung}
+Chung, W.~S., Walker, A.~W., Bosscher, D., Garcia-Campayo, V., Wagner, J.,
+  Parkhill, J., Duncan, S.~H., and Flint, H.~J. (2020).
+\newblock Relative abundance of the prevotella genus within the human gut
+  microbiota of elderly volunteers determines the inter-individual responses to
+  dietary supplementation with wheat bran arabinoxylan-oligosaccharides.
+\newblock {\em BMC microbiology}, 20(1):1--4.
+
+\bibitem[Cremer et~al., 2017]{Cremer17}
+Cremer, J., Arnoldini, M., and Hwa, T. (2017).
+\newblock Effect of water flow and chemical composition in the human colon.
+\newblock {\em PNAS}, 114(25):6438--6443.
+
+\bibitem[Cremer et~al., 2016]{Cremer16}
+Cremer, J., Segota, I., y~Yang, C., Arnoldini, M., Sauls, J., Zhang, Z.,
+  Gutierrez, E., Groisman, A., and Hwa, T. (2016).
+\newblock Effect of flow and peristaltic mixing on bacterial growth in a
+  gut-like channel.
+\newblock {\em PNAS}, 113:11414--11419.
+
+\bibitem[Crost et~al., 2013]{crost}
+Crost, E., Tailford, L., Gall, G.~L., Fons, M., Henrissat, B., and Juge, N.
+  (2013).
+\newblock Utilisation of mucin glycans by the human gut symbiont ruminococcus
+  gnavus is strain-dependent.
+\newblock {\em PLoS ONE}, 8(10):e76341.
+
+\bibitem[Cummings et~al., 1987]{cummings}
+Cummings, J.~H., Pomare, E., Branch, W., Naylor, C., and Macfarlane, G. (1987).
+\newblock Short chain fatty acids in human large intestine, portal, hepatica
+  and venous blood.
+\newblock {\em Gut}, 28:1221--1227.
+
+\bibitem[Duncan et~al., 2007]{duncan}
+Duncan, S.~H., Belenguer, A., Holtrop, G., Johnstone, A., Flint, H.~J., and
+  Lobley, G.~E. (2007).
+\newblock Reduced dietary intake of carbohydrates by obese subjects results in
+  decreased concentrations of butyrate and butyrate-producing bacteria in
+  feces.
+\newblock {\em Applied and Environmental Microbiology}, 73(4):1073--1078.
+
+\bibitem[Duncan et~al., 2016]{duncan16}
+Duncan, S.~H., Russell, W.~R., Quartieri, A., Rossi, M., Parkhill, J., Walker,
+  A.~W., and Flint, H.~J. (2016).
+\newblock Wheat bran promotes enrichment within the human colonic microbiota of
+  butyrate‐producing bacteria that release ferulic acid.
+\newblock {\em Environmental Microbiology}, 18(7):2214--2225.
+
+\bibitem[Florin et~al., 1991]{florin}
+Florin, T., Neale, G., Gibson, G., Christl, S., and Cummings, J. (1991).
+\newblock Metabolism of dietarysulphate: absorption and excretion in humans.
+\newblock {\em Gut}, 32:766--773.
+
+\bibitem[Kettle et~al., 2018]{Kettle2018}
+Kettle, H., Holtrop, G., Louis, P., and Flint, H.~J. (2018).
+\newblock micropop: Modelling microbial populations and communities in r.
+\newblock {\em Methods in Ecology and Evolution}, 9(2):399--409.
+
+\bibitem[Kettle et~al., 2015]{Kettle2015}
+Kettle, H., Louis, P., Holtrop, G., Duncan, S.~H., and Flint, H.~J. (2015).
+\newblock Modelling the emergent dynamics and major metabolites of the human
+  colonic microbiota.
+\newblock {\em Enviromental Microbiology}, 17(5):1615--1630.
+
+\bibitem[Lewis and Heaton, 1997]{Lewis}
+Lewis, S. and Heaton, K. (1997).
+\newblock Increasing butyrate concentration in the distal colon by accelerating
+  intestinal transit.
+\newblock {\em Gut}, 41:245--251.
+
+\bibitem[Louis and Flint, 2017]{louis17}
+Louis, P. and Flint, H.~J. (2017).
+\newblock Formation of propionate and butyrate by the human colonic microbiota.
+\newblock {\em Environmental Microbiology}, 19(1):29--41.
+
+\bibitem[Moorthy et~al., 2015]{moorthy}
+Moorthy, A.~S., S.P.J., B., M., K., and H.J., E. (2015).
+\newblock Continuous model of carbohydrate digestion and transport processes in
+  the colon.
+\newblock {\em PLoS ONE}, 10(12):e.0145309.
+
+\bibitem[Morrison and Preston, 2016]{health2}
+Morrison, D.~J. and Preston, T. (2016).
+\newblock Formation of short chain fatty acids by the gut microbiota and their
+  impact on human metabolism.
+\newblock {\em Gut Microbes}, 7(3):189--200.
+
+\bibitem[Munoz-Tamayo et~al., 2010]{Munoz}
+Munoz-Tamayo, R., Laroche, B., Walter, E., Dore, J., and Leclerc, M. (2010).
+\newblock Mathematical modelling of carbohydrate degradation by human colonic
+  microbiota.
+\newblock {\em Journal of Theoretical Biology}, 266(1):189 -- 201.
+
+\bibitem[Phillips and Giller, 1973]{Phillips}
+Phillips, S. and Giller, J. (1973).
+\newblock The contribution of the colon to electrolyte and water conservation
+  in man.
+\newblock {\em J Lab Clin Med}, 81(5):733--746.
+
+\bibitem[Ravcheev and Thiele, 2017]{Racheev}
+Ravcheev, D.~A. and Thiele, I. (2017).
+\newblock Comparative genomic analysis of the human gut microbiome reveals a
+  broad distribution of metabolic pathways for the degradation of
+  host-synthetized mucin glycans and utilization of mucin-derived
+  monosaccharides.
+\newblock {\em Frontiers in Genetics}, 8:111.
+
+\bibitem[Reichardt et~al., 2014]{reichardt}
+Reichardt, N., Duncan, S.~H., Young, P., Belenguer, A., Leitch, C.~M., Scott,
+  K.~P., Flint, H.~J., and Louis, P. (2014).
+\newblock Phylogenetic distribution of three pathways for propionate production
+  within the human gut microbiota.
+\newblock {\em The ISME journal}, 8(6):1323--1335.
+
+\bibitem[Ruppin et~al., 1980]{Ruppin}
+Ruppin, H., Bar-Maeir, S., Soergel, K., Wood, C., and Schmitt, M. (1980).
+\newblock Absorption of short chain fatty acids by the colon.
+\newblock {\em Gastroenterology}, 78(6):1500--1507.
+
+\bibitem[Ríos-Covián et~al., 2016]{health1}
+Ríos-Covián, D., Ruas-Madiedo, P., Margolles, A., Gueimonde, M., de~los
+  Reyes-Gavilán, C.~G., and Salazar, N. (2016).
+\newblock Intestinal short chain fatty acids and their link with diet and human
+  health.
+\newblock {\em Front. Microbiol.}, 17.
+
+\bibitem[Salonen et~al., 2014]{salonen}
+Salonen, A., Lahti, L., Saloja, J., Holtrop, G., Korpela, K., Duncan, S.~H.,
+  Date, P., Farquharson, F., Johnstone, A.~M., Lobley, G.~E., Louis, P., Flint,
+  H.~J., and de~Vos, W.~M. (2014).
+\newblock Impact of diet and individual variation on intestinal microbiota
+  composition and fermentation products in obese men.
+\newblock {\em The ISME Journal}, pages 1--13.
+
+\bibitem[Slavin et~al., 1981]{slavin}
+Slavin, J.~L., Brauer, P.~M., and Marlett, J.~A. (1981).
+\newblock {Neutral Detergent Fiber, Hemicellulose and Cellulose Digestibility
+  in Human Subjects}.
+\newblock {\em The Journal of Nutrition}, 111(2):287--297.
+
+\bibitem[Smith et~al., 2021]{smith}
+Smith, N., Shorten, P., and Altermann, E. (2021).
+\newblock Examination of hydrogen cross-feeders using a colonic microbiota
+  model.
+\newblock {\em BMC Bioinformatics}, 22(3).
+
+\bibitem[Stephen and Cummings, 1980]{StephenCummings}
+Stephen, A. and Cummings, J. (1980).
+\newblock The microbial contribution to human fecal mass.
+\newblock {\em J. Medical Microbiology}, 13(1):45--56.
+
+\bibitem[Sung et~al., 2017]{Sung}
+Sung, J., Kim, S., Cabatbat, J., Jang, S., Jin, Y., Jung, G.~Y., Chia, N., and
+  Kim, P. (2017).
+\newblock Global metabolic interaction network of the human gut microbiota for
+  context-specific community-scale analysis.
+\newblock {\em Nature communications}.
+
+\bibitem[Topping and Clifton, 2001]{Topping}
+Topping, D. and Clifton, P. (2001).
+\newblock Short-chain fatty acids and human colonic function: roles of
+  resistant starch and nonstarch polysaccharides.
+\newblock {\em Physiological Review}, 81(3):1031--1064.
+
+\bibitem[Walker et~al., 2011]{walker2011}
+Walker, A.~W., Ince, J., Duncan, S.~H., Webster, L.~M., Holtrop, G., Ze, X.,
+  Brown, D., Stares, M.~D., Scott, P., Bergerat, A., Louis, P., McIntosh, F.,
+  Johnstone, A.~M., Lobley, G.~E., Parkhill, J., and Flint, H.~J. (2011).
+\newblock Dominant and diet-responsive groups of bacteria within the human
+  colonic microbiota.
+\newblock {\em The ISME Journal}, 5:220--230.
+
+\bibitem[Wang et~al., 2020]{wang}
+Wang, S.~P., Rubio, L.~A., Duncan, S.~H., Donachie, G.~E., Holtrop, G., Lo, G.,
+  Farquharson, F.~M., Wagner, J., Parkhill, J., Louis, P., Walker, A.~W., and
+  Flint, H.~J. (2020).
+\newblock Pivotal roles for ph, lactate, and lactate-utilizing bacteria in the
+  stability of a human colonic microbial ecosystem.
+\newblock {\em mSystems}, 5(5):e00645--20.
+
+\bibitem[Wu et~al., 2011]{wu}
+Wu, G., Chen, J., Hoffmann, C., Bittinger, K., Chen, Y., Keilbaugh, S., Bewtra,
+  M., Knights, D., Walters, W., Knight, R., and Sinha, R. (2011).
+\newblock Linking long-term dietary patterns with gut microbial enterotypes.
+\newblock {\em Science}, 334(6052):105--108.
+
+\bibitem[Yao et~al., 2016]{yao}
+Yao, C.~K., Muir, J.~G., and Gibson, P.~R. (2016).
+\newblock Review article: insights into colonic protein fermentation, its
+  modulation and potential health implications.
+\newblock {\em Alimentary Pharmacology and Therapeutics}, 43(2):181--196.
+
+\end{thebibliography}
