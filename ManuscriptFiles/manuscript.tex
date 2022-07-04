@@ -3,7 +3,7 @@
 \usepackage{amsmath}
 \usepackage{xr}
 \usepackage{subcaption}
-
+\usepackage{authblk}
 
 %\usepackage{natbib}
 %\usepackage{cite}
@@ -15,17 +15,25 @@
 
 \usepackage{lineno}
 \usepackage{xcolor}
-
+\usepackage{setspace}
 
 \externaldocument[supp-]{Appendix}
 
 \allowdisplaybreaks
 
-\begin{document}
+\doublespacing
 
 \title{Process-based modelling of microbial community dynamics in the human colon}
 
-\author{Helen Kettle, Petra Louis and Harry J. FLint}
+\author[1,*]{Helen Kettle}
+\author[2]{Petra Louis}
+\author[2]{Harry J. Flint}
+\affil[1]{Biomathematics and Statistics Scotland, James Clerk Maxwell Building, Peter Guthrie Tait Road, Edinburgh, EH9 3FD}
+\affil[2]{Gut Health Group, Rowett Institute, University of Aberdeen, Aberdeen, UK}
+\affil[*]{Corresponding author: Helen.Kettle@bioss.ac.uk}
+
+
+\begin{document}
 
 \maketitle
 
@@ -41,6 +49,10 @@ Gut microbiota are highly complex and poory understood yet our work shows that i
 The code is available as an R package (microPopGut) to aid future research.
 \end{abstract}
 
+\section*{Author Summary}
+Kettle wrote the model code and led the writing of the manuscript. Flint contributed to writing the manuscript. Flint and Louis contributed to all aspects of microbiolgy and all authors contributed critically to the drafts and gave final approval for publication.
+
+\section*{Introduction}
 The human colon harbours a dense and diverse community of microbiota whose interactions with the host can have a profound effect on human health (e.g. \cite{health1}, \cite{health2}). Due to the location of this community within its host, data collection and experimentation are problematic. Information on this system must come from volunteer experiments in which diet and stool samples are monitored or from laboratory experiments using the microbes found in stool samples. Another approach is to put current knowledge into a mathematical framework and run simulations of the system to test our understanding and identify knowledge gaps. To this end a number of mathematical models of this system have been developed - e.g. 
 \cite{Cremer16}, \cite{Cremer17}, \cite{Munoz}, \cite{smith}, \cite{moorthy}.
 
@@ -539,8 +551,8 @@ We estimate the wash out rate from the colon during a bowel movement, $V_{BM}$, 
 \end{equation}
 where $f_d$ is the fraction of mass left in the distal colon after the bowel movement and $\Delta t_{BM}$ is the time taken for the bowel movement (d). For example, if a bowel movement takes 10 minutes to remove 90\% of the contents of the distal colon then $V_{BM}$ is 332  d$^{-1}$. This is not affected by the number of bowel movements per day.
 
-
-
+\section*{Acknowledgments}
+We thank the Scottish Goverment's Rural and Environment Science and Analytical Services Division (RESAS) for funding this research. 
 
 \bibliography{refs}
 

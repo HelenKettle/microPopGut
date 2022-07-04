@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.12.2)  1 JUL 2022 12:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2020.12.2)  1 JUL 2022 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -138,25 +138,33 @@ Package: caption3 2013/02/03 v1.5-62 caption3 kernel (AR)
 \c@subfigure=\count101
 \c@subtable=\count102
 )
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/authblk.sty
+Package: authblk 2009/11/18 1.3 (PWD)
+\affilsep=\skip46
+\@affilsep=\skip47
+\c@Maxaffil=\count103
+\c@authors=\count104
+\c@affil=\count105
+)
 (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip46
-\bibsep=\skip47
+\bibhang=\skip48
+\bibsep=\skip49
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count103
+\c@NAT@ctr=\count106
 )
 (/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
-\linenopenalty=\count104
+\linenopenalty=\count107
 \output=\toks20
-\linenoprevgraf=\count105
+\linenoprevgraf=\count108
 \linenumbersep=\dimen121
 \linenumberwidth=\dimen122
-\c@linenumber=\count106
-\c@pagewiselinenumber=\count107
-\c@LN@truepage=\count108
-\c@internallinenumber=\count109
-\c@internallinenumbers=\count110
+\c@linenumber=\count109
+\c@pagewiselinenumber=\count110
+\c@LN@truepage=\count111
+\c@internallinenumber=\count112
+\c@internallinenumbers=\count113
 \quotelinenumbersep=\dimen123
 \bframerule=\dimen124
 \bframesep=\dimen125
@@ -180,6 +188,9 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
 
 Package xr Warning: 
 No file Appendix.aux
@@ -189,31 +200,31 @@ LABELS NOT IMPORTED.
 (./manuscript.aux)
 \openout1 = `manuscript.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count111
+\scratchcounter=\count114
 \scratchdimen=\dimen126
 \scratchbox=\box29
-\nofMPsegments=\count112
-\nofMParguments=\count113
+\nofMPsegments=\count115
+\nofMParguments=\count116
 \everyMPshowfont=\toks21
-\MPscratchCnt=\count114
+\MPscratchCnt=\count117
 \MPscratchDim=\dimen127
-\MPnumerator=\count115
-\makeMPintoPDFobject=\count116
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
 \everyMPtoPDFconversion=\toks22
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -265,101 +276,102 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+
+[1
+
+{/usr/share/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ≠ in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ° in font cmr10!
-
-[1
-
-{/usr/share/texlive/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-<images/colon4.pdf, id=15, 963.6pt x 542.025pt>
+ [2] [3]
+[4] <images/colon4.pdf, id=25, 963.6pt x 542.025pt>
 File: images/colon4.pdf Graphic file (type pdf)
  <use images/colon4.pdf>
-Package pdftex.def Info: images/colon4.pdf used on input line 74.
+Package pdftex.def Info: images/colon4.pdf used on input line 86.
 (pdftex.def)             Requested size: 337.26506pt x 189.71158pt.
 
-Overfull \hbox (2.70206pt too wide) in paragraph at lines 94--94
+Overfull \hbox (2.70206pt too wide) in paragraph at lines 106--106
 []\OT1/cmr/m/n/9 Abbr.| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 []\OT1/cmr/m/n/9 Acetate-propionate-
  []
 
 
-Overfull \hbox (4.9923pt too wide) in paragraph at lines 97--97
+Overfull \hbox (4.9923pt too wide) in paragraph at lines 109--109
 []\OT1/cmr/m/n/9 NBSD| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
 []\OT1/cmr/m/n/9 Non-butyrate-forming
  []
 
 
-Overfull \hbox (5.89088pt too wide) in paragraph at lines 98--98
+Overfull \hbox (5.89088pt too wide) in paragraph at lines 110--110
 []\OT1/cmr/m/n/9 NBFD| 
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 98--98
+Underfull \hbox (badness 1454) in paragraph at lines 110--110
 []\OT1/cmr/m/n/9 Non-butyrate-forming fi-
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 98--99
+Underfull \hbox (badness 1502) in paragraph at lines 110--111
 \OT1/cmr/m/it/9 minococ-cus al-bus\OT1/cmr/m/n/9 , \OT1/cmr/m/it/9 Ru-minococ-c
 us
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 []\OT1/cmr/m/it/9 Actinobacteria\OT1/cmr/m/n/9 , es-pe-cially \OT1/cmr/m/it/9 B
 i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 \OT1/cmr/m/it/9 fi-dobac-terium \OT1/cmr/m/n/9 spp., \OT1/cmr/m/it/9 Collinsell
 a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 []\OT1/cmr/m/n/9 Certain \OT1/cmr/m/it/9 Ru-minococ-caceae\OT1/cmr/m/n/9 , in
  []
 
 
-Overfull \hbox (2.1086pt too wide) in paragraph at lines 102--102
+Overfull \hbox (2.1086pt too wide) in paragraph at lines 114--114
 []\OT1/cmr/m/n/9 PropionateProducers| 
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 102--103
+Underfull \hbox (badness 1342) in paragraph at lines 114--115
 []\OT1/cmr/m/it/9 Veillonellaceae \OT1/cmr/m/n/9 e.g. \OT1/cmr/m/it/9 Veil-lone
 lla
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 []\OT1/cmr/m/n/9 Certain \OT1/cmr/m/it/9 Lach-nospiraceae\OT1/cmr/m/n/9 , e.g.
  []
 
 
-Overfull \hbox (48.0pt too wide) in paragraph at lines 91--108
+Overfull \hbox (48.0pt too wide) in paragraph at lines 103--120
  [][] 
  []
 
-<images/microbeEco4.pdf, id=16, 963.6pt x 542.025pt>
+<images/microbeEco4.pdf, id=26, 963.6pt x 542.025pt>
 File: images/microbeEco4.pdf Graphic file (type pdf)
 
 <use images/microbeEco4.pdf>
-Package pdftex.def Info: images/microbeEco4.pdf used on input line 114.
+Package pdftex.def Info: images/microbeEco4.pdf used on input line 126.
 (pdftex.def)             Requested size: 289.08223pt x 162.60875pt.
- [3 <./images/colon4.pdf>] [4 <./images/microbeEco4.pdf>] [5]
-Overfull \hbox (17.9878pt too wide) in paragraph at lines 154--175
+ [5 <./images/colon4.pdf>] [6 <./images/microbeEco4.pdf>] [7] [8]
+Overfull \hbox (17.9878pt too wide) in paragraph at lines 166--187
  [][] 
  []
 
@@ -371,18 +383,18 @@ Package epstopdf Info: Source file: <images/BMpdbarSmall.eps>
 (epstopdf)                    size: 14388 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/BMpdbarSmall-eps-co
 nverted-to.pdf images/BMpdbarSmall.eps>
-(epstopdf)             \includegraphics on input line 190.
+(epstopdf)             \includegraphics on input line 202.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/BMpdbarSmall-eps-converted-to.pdf): PDF
  inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/BMpdbarSmall-eps-converted-to.pdf, id=62, 288.07625pt x 504.88625pt>
+<images/BMpdbarSmall-eps-converted-to.pdf, id=73, 288.07625pt x 504.88625pt>
 File: images/BMpdbarSmall-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/BMpdbarSmall-eps-converted-to.pdf>
 Package pdftex.def Info: images/BMpdbarSmall-eps-converted-to.pdf used on input
- line 190.
+ line 202.
 (pdftex.def)             Requested size: 100.82819pt x 176.71283pt.
 Package epstopdf Info: Source file: <images/fixpHbarSmall.eps>
 (epstopdf)                    date: 2022-06-13 17:35:47
@@ -393,18 +405,18 @@ Package epstopdf Info: Source file: <images/fixpHbarSmall.eps>
 (epstopdf)                    size: 14281 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/fixpHbarSmall-eps-c
 onverted-to.pdf images/fixpHbarSmall.eps>
-(epstopdf)             \includegraphics on input line 194.
+(epstopdf)             \includegraphics on input line 206.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/fixpHbarSmall-eps-converted-to.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/fixpHbarSmall-eps-converted-to.pdf, id=63, 288.07625pt x 504.88625pt>
+<images/fixpHbarSmall-eps-converted-to.pdf, id=74, 288.07625pt x 504.88625pt>
 File: images/fixpHbarSmall-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/fixpHbarSmall-eps-converted-to.pdf>
 Package pdftex.def Info: images/fixpHbarSmall-eps-converted-to.pdf used on inpu
-t line 194.
+t line 206.
 (pdftex.def)             Requested size: 100.82819pt x 176.71283pt.
 Package epstopdf Info: Source file: <images/transitTimebarSmall.eps>
 (epstopdf)                    date: 2022-06-13 17:36:00
@@ -415,19 +427,19 @@ o.pdf>
 (epstopdf)                    size: 16055 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/transitTimebarSmall
 -eps-converted-to.pdf images/transitTimebarSmall.eps>
-(epstopdf)             \includegraphics on input line 198.
+(epstopdf)             \includegraphics on input line 210.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/transitTimebarSmall-eps-converted-to.pd
 f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<images/transitTimebarSmall-eps-converted-to.pdf, id=64, 288.07625pt x 504.8862
+<images/transitTimebarSmall-eps-converted-to.pdf, id=75, 288.07625pt x 504.8862
 5pt>
 File: images/transitTimebarSmall-eps-converted-to.pdf Graphic file (type pdf)
  <use images/transitTimebarSmall-eps-converted-to.pdf>
 Package pdftex.def Info: images/transitTimebarSmall-eps-converted-to.pdf used o
-n input line 198.
+n input line 210.
 (pdftex.def)             Requested size: 100.82819pt x 176.71283pt.
 Package epstopdf Info: Source file: <images/transitTimeTS.eps>
 (epstopdf)                    date: 2022-06-13 17:36:18
@@ -438,31 +450,31 @@ Package epstopdf Info: Source file: <images/transitTimeTS.eps>
 (epstopdf)                    size: 2969320 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/transitTimeTS-eps-c
 onverted-to.pdf images/transitTimeTS.eps>
-(epstopdf)             \includegraphics on input line 210.
+(epstopdf)             \includegraphics on input line 222.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/transitTimeTS-eps-converted-to.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/transitTimeTS-eps-converted-to.pdf, id=65, 866.23625pt x 433.62pt>
+<images/transitTimeTS-eps-converted-to.pdf, id=76, 866.23625pt x 433.62pt>
 File: images/transitTimeTS-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/transitTimeTS-eps-converted-to.pdf>
 Package pdftex.def Info: images/transitTimeTS-eps-converted-to.pdf used on inpu
-t line 210.
+t line 222.
 (pdftex.def)             Requested size: 433.11707pt x 216.80946pt.
 
-Overfull \hbox (88.11707pt too wide) in paragraph at lines 210--213
+Overfull \hbox (88.11707pt too wide) in paragraph at lines 222--225
  [][] 
  []
 
-[6] [7 <./images/BMpdbarSmall-eps-converted-to.pdf> <./images/fixpHbarSmall-eps
--converted-to.pdf> <./images/transitTimebarSmall-eps-converted-to.pdf> <./image
-s/transitTimeTS-eps-converted-to.pdf>] [8]
-<images/Table3.pdf, id=119, 418.36299pt x 242.50601pt>
+[9] [10 <./images/BMpdbarSmall-eps-converted-to.pdf> <./images/fixpHbarSmall-ep
+s-converted-to.pdf> <./images/transitTimebarSmall-eps-converted-to.pdf> <./imag
+es/transitTimeTS-eps-converted-to.pdf>] [11]
+<images/Table3.pdf, id=129, 418.36299pt x 242.50601pt>
 File: images/Table3.pdf Graphic file (type pdf)
  <use images/Table3.pdf>
-Package pdftex.def Info: images/Table3.pdf used on input line 274.
+Package pdftex.def Info: images/Table3.pdf used on input line 286.
 (pdftex.def)             Requested size: 167.34222pt x 97.00067pt.
 Package epstopdf Info: Source file: <images/InVivoExpts.eps>
 (epstopdf)                    date: 2022-06-13 17:36:36
@@ -472,18 +484,18 @@ Package epstopdf Info: Source file: <images/InVivoExpts.eps>
 (epstopdf)                    size: 12937 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/InVivoExpts-eps-con
 verted-to.pdf images/InVivoExpts.eps>
-(epstopdf)             \includegraphics on input line 275.
+(epstopdf)             \includegraphics on input line 287.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/InVivoExpts-eps-converted-to.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/InVivoExpts-eps-converted-to.pdf, id=120, 721.69624pt x 504.88625pt>
+<images/InVivoExpts-eps-converted-to.pdf, id=130, 721.69624pt x 504.88625pt>
 File: images/InVivoExpts-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/InVivoExpts-eps-converted-to.pdf>
 Package pdftex.def Info: images/InVivoExpts-eps-converted-to.pdf used on input 
-line 275.
+line 287.
 (pdftex.def)             Requested size: 144.33669pt x 100.97545pt.
 Package epstopdf Info: Source file: <images/modelledDuncanExpt.eps>
 (epstopdf)                    date: 2022-06-13 17:36:49
@@ -494,19 +506,19 @@ Package epstopdf Info: Source file: <images/modelledDuncanExpt.eps>
 (epstopdf)                    size: 19011 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/modelledDuncanExpt-
 eps-converted-to.pdf images/modelledDuncanExpt.eps>
-(epstopdf)             \includegraphics on input line 285.
+(epstopdf)             \includegraphics on input line 297.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/modelledDuncanExpt-eps-converted-to.pdf
 ): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<images/modelledDuncanExpt-eps-converted-to.pdf, id=121, 721.69624pt x 504.8862
+<images/modelledDuncanExpt-eps-converted-to.pdf, id=131, 721.69624pt x 504.8862
 5pt>
 File: images/modelledDuncanExpt-eps-converted-to.pdf Graphic file (type pdf)
  <use images/modelledDuncanExpt-eps-converted-to.pdf>
 Package pdftex.def Info: images/modelledDuncanExpt-eps-converted-to.pdf used on
- input line 285.
+ input line 297.
 (pdftex.def)             Requested size: 288.67339pt x 201.95091pt.
 Package epstopdf Info: Source file: <images/ButyrateCProteinExpt.eps>
 (epstopdf)                    date: 2022-06-13 17:37:02
@@ -517,23 +529,23 @@ to.pdf>
 (epstopdf)                    size: 13674 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/ButyrateCProteinExp
 t-eps-converted-to.pdf images/ButyrateCProteinExpt.eps>
-(epstopdf)             \includegraphics on input line 294.
+(epstopdf)             \includegraphics on input line 306.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/ButyrateCProteinExpt-eps-converted-to.p
 df): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<images/ButyrateCProteinExpt-eps-converted-to.pdf, id=122, 1010.77625pt x 504.8
+<images/ButyrateCProteinExpt-eps-converted-to.pdf, id=132, 1010.77625pt x 504.8
 8625pt>
 File: images/ButyrateCProteinExpt-eps-converted-to.pdf Graphic file (type pdf)
  <use images/ButyrateCProteinExpt-eps-converted-to.pdf>
 Package pdftex.def Info: images/ButyrateCProteinExpt-eps-converted-to.pdf used 
-on input line 294.
+on input line 306.
 (pdftex.def)             Requested size: 303.23521pt x 151.46703pt.
- [9 <./images/Table3.pdf> <./images/InVivoExpts-eps-converted-to.pdf>] [10 <./i
-mages/modelledDuncanExpt-eps-converted-to.pdf> <./images/ButyrateCProteinExpt-e
-ps-converted-to.pdf>]
+ [12 <./images/Table3.pdf> <./images/InVivoExpts-eps-converted-to.pdf>] [13 <./
+images/modelledDuncanExpt-eps-converted-to.pdf> <./images/ButyrateCProteinExpt-
+eps-converted-to.pdf>] [14]
 Package epstopdf Info: Source file: <images/modelledRSfrac.eps>
 (epstopdf)                    date: 2022-06-13 17:37:16
 (epstopdf)                    size: 30165 bytes
@@ -543,56 +555,56 @@ Package epstopdf Info: Source file: <images/modelledRSfrac.eps>
 (epstopdf)                    size: 17735 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/modelledRSfrac-eps-
 converted-to.pdf images/modelledRSfrac.eps>
-(epstopdf)             \includegraphics on input line 331.
+(epstopdf)             \includegraphics on input line 343.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/modelledRSfrac-eps-converted-to.pdf): P
 DF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<images/modelledRSfrac-eps-converted-to.pdf, id=160, 721.69624pt x 504.88625pt>
+<images/modelledRSfrac-eps-converted-to.pdf, id=175, 721.69624pt x 504.88625pt>
 File: images/modelledRSfrac-eps-converted-to.pdf Graphic file (type pdf)
 <use images/modelledRSfrac-eps-converted-to.pdf>
 Package pdftex.def Info: images/modelledRSfrac-eps-converted-to.pdf used on inp
-ut line 331.
+ut line 343.
 (pdftex.def)             Requested size: 360.84724pt x 252.44249pt.
 
-Overfull \hbox (15.84724pt too wide) in paragraph at lines 331--334
+Overfull \hbox (15.84724pt too wide) in paragraph at lines 343--346
  [][] 
  []
 
-[11 <./images/modelledRSfrac-eps-converted-to.pdf>]
+[15 <./images/modelledRSfrac-eps-converted-to.pdf>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [12]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 369.
+ [16] [17]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 381.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 369.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 381.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [13]
-Overfull \hbox (66.32022pt too wide) in paragraph at lines 385--386
+ [18]
+Overfull \hbox (66.32022pt too wide) in paragraph at lines 397--398
 \OT1/cmr/m/n/10 searchers we pro-vide all model code on github (https://github.
 com/HelenKettle/microPopGut).
  []
 
 
-Overfull \hbox (49.00246pt too wide) in paragraph at lines 385--386
+Overfull \hbox (49.00246pt too wide) in paragraph at lines 397--398
 \OT1/cmr/m/n/10 This can be down-loaded and in-stalled in R us-ing in-stall.pac
 kages(`microPopGut[]1.0.tar.gz'). 
  []
 
-[14] [15]
+[19] [20] [21]
 Package epstopdf Info: Source file: <images/inflowGamma.eps>
 (epstopdf)                    date: 2022-06-13 17:37:37
 (epstopdf)                    size: 325120 bytes
@@ -601,18 +613,18 @@ Package epstopdf Info: Source file: <images/inflowGamma.eps>
 (epstopdf)                    size: 105691 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/inflowGamma-eps-con
 verted-to.pdf images/inflowGamma.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 471.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/inflowGamma-eps-converted-to.pdf): PDF 
 inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/inflowGamma-eps-converted-to.pdf, id=191, 504.88625pt x 504.88625pt>
+<images/inflowGamma-eps-converted-to.pdf, id=211, 504.88625pt x 504.88625pt>
 File: images/inflowGamma-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/inflowGamma-eps-converted-to.pdf>
 Package pdftex.def Info: images/inflowGamma-eps-converted-to.pdf used on input 
-line 459.
+line 471.
 (pdftex.def)             Requested size: 126.22124pt x 126.22124pt.
 Package epstopdf Info: Source file: <images/inflowTS.eps>
 (epstopdf)                    date: 2022-06-13 17:37:37
@@ -622,18 +634,18 @@ Package epstopdf Info: Source file: <images/inflowTS.eps>
 (epstopdf)                    size: 169402 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/inflowTS-eps-conver
 ted-to.pdf images/inflowTS.eps>
-(epstopdf)             \includegraphics on input line 460.
+(epstopdf)             \includegraphics on input line 472.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/inflowTS-eps-converted-to.pdf): PDF inc
 lusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/inflowTS-eps-converted-to.pdf, id=192, 504.88625pt x 504.88625pt>
+<images/inflowTS-eps-converted-to.pdf, id=212, 504.88625pt x 504.88625pt>
 File: images/inflowTS-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/inflowTS-eps-converted-to.pdf>
 Package pdftex.def Info: images/inflowTS-eps-converted-to.pdf used on input lin
-e 460.
+e 472.
 (pdftex.def)             Requested size: 201.95091pt x 201.95091pt.
 Package epstopdf Info: Source file: <images/inflowComp.eps>
 (epstopdf)                    date: 2022-06-13 17:37:37
@@ -643,21 +655,21 @@ Package epstopdf Info: Source file: <images/inflowComp.eps>
 (epstopdf)                    size: 13999 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/inflowComp-eps-conv
 erted-to.pdf images/inflowComp.eps>
-(epstopdf)             \includegraphics on input line 461.
+(epstopdf)             \includegraphics on input line 473.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/inflowComp-eps-converted-to.pdf): PDF i
 nclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/inflowComp-eps-converted-to.pdf, id=193, 649.42625pt x 504.88625pt>
+<images/inflowComp-eps-converted-to.pdf, id=213, 649.42625pt x 504.88625pt>
 File: images/inflowComp-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/inflowComp-eps-converted-to.pdf>
 Package pdftex.def Info: images/inflowComp-eps-converted-to.pdf used on input l
-ine 461.
+ine 473.
 (pdftex.def)             Requested size: 324.71233pt x 252.44249pt.
- [16] [17 <./images/inflowGamma-eps-converted-to.pdf> <./images/inflowTS-eps-co
-nverted-to.pdf> <./images/inflowComp-eps-converted-to.pdf>] [18]
+ [22] [23 <./images/inflowGamma-eps-converted-to.pdf> <./images/inflowTS-eps-co
+nverted-to.pdf> <./images/inflowComp-eps-converted-to.pdf>] [24] [25]
 Package epstopdf Info: Source file: <images/pHTSCFAandTol.eps>
 (epstopdf)                    date: 2022-06-13 17:37:56
 (epstopdf)                    size: 8430 bytes
@@ -667,61 +679,67 @@ Package epstopdf Info: Source file: <images/pHTSCFAandTol.eps>
 (epstopdf)                    size: 14710 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/pHTSCFAandTol-eps-c
 onverted-to.pdf images/pHTSCFAandTol.eps>
-(epstopdf)             \includegraphics on input line 512.
+(epstopdf)             \includegraphics on input line 524.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/pHTSCFAandTol-eps-converted-to.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/pHTSCFAandTol-eps-converted-to.pdf, id=235, 721.69624pt x 433.62pt>
+<images/pHTSCFAandTol-eps-converted-to.pdf, id=259, 721.69624pt x 433.62pt>
 File: images/pHTSCFAandTol-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/pHTSCFAandTol-eps-converted-to.pdf>
 Package pdftex.def Info: images/pHTSCFAandTol-eps-converted-to.pdf used on inpu
-t line 512.
+t line 524.
 (pdftex.def)             Requested size: 216.51054pt x 130.087pt.
- [19 <./images/pHTSCFAandTol-eps-converted-to.pdf>] (./manuscript.bbl
+ [26] [27 <./images/pHTSCFAandTol-eps-converted-to.pdf>] (./manuscript.bbl [28]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ê in font cmr10!
- [20]
+ [29]
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ≠ in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ° in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ° in font cmr10!
- [21]) [22] (./manuscript.aux) ) 
+ [30] [31]) [32]
+(./manuscript.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4407 strings out of 495063
- 64806 string characters out of 3182201
- 139374 words of memory out of 3000000
- 7524 multiletter control sequences out of 15000+200000
+ 4506 strings out of 495063
+ 66115 string characters out of 3182201
+ 136156 words of memory out of 3000000
+ 7615 multiletter control sequences out of 15000+200000
  11459 words of font info for 41 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  42i,11n,40p,1998b,447s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on manuscript.pdf (22 pages, 4344961 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmti9.pfb>
+Output written on manuscript.pdf (32 pages, 4363494 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 215 compressed objects within 3 object streams
+ 357 PDF objects out of 1000 (max. 8388607)
+ 240 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
